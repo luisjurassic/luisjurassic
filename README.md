@@ -5,7 +5,7 @@
 
 ### Hi there! 👋
 
-Welcome to my profile, my name is Luis and I'm C# and JAVA developer.
+Welcome to my profile, my name is Luis and I'm C# developer.
 
  - ❤ I love programming
  - 🔭 I’m currently working with C#
