@@ -10,5 +10,6 @@ Welcome to my profile, my name is Luis and I'm C# developer.
  - ❤ I love programming
  - 🔭 I’m currently working with C#
  - 🌱 Currently learning ASP.NET Core and Xamarin
+ - 💼 I work at the company Guia Fácil Comunicação
  - 📫 How to reach me: ...
  - ⚡ Fun fact: My nickname is Jurassic😂🤣🦖
